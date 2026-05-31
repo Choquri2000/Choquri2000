@@ -1,11 +1,8 @@
 <!--
   Beka Chokuri | Turning Data into Logic and Predictive Value
   GitHub Profile README – Bilingual (ქართული / English)
-  Instructions: Create a NEW repo named exactly "Choquri2000" (public),
-  paste this as README.md, and it will show on your GitHub profile overview.
 -->
 
-<!-- Anchor Navigation -->
 <p align="center">
   <a href="#english">🇺🇸 English</a> &nbsp;•&nbsp;
   <a href="#georgian">🇬🇪 ქართული</a>
@@ -13,7 +10,7 @@
 
 <hr>
 
-<!-- ############################## ENGLISH SECTION ############################## -->
+<!-- ############################## ENGLISH ############################## -->
 <a id="english"></a>
 
 <h1 align="center">
@@ -22,7 +19,7 @@
 </h1>
 
 <p align="center">
-  <em>Data Analyst · Developer · Solutions Architect</em><br>
+  <em>Data Analyst · BI Developer · Solutions Architect</em><br>
   <a href="https://www.linkedin.com/in/beka-chokuri/">LinkedIn</a> •
   <a href="mailto:beqachoquri@gmail.com">Email</a>
 </p>
@@ -31,10 +28,16 @@
 
 ### 🧭 Who I Am
 
-Data professional with **3+ years** bridging economics, analytics, and data engineering.  
-Bachelor's in Economics from **ISET** — a foundation in Probability, Linear Algebra, and Bayesian Theory that drives every modeling decision I make.
+With **3+ years** of professional experience across finance and analytics, I am a dedicated **Data Analyst and BI Developer** passionate about transforming complex data into clear, actionable insights. I excel at building robust data solutions, automating processes, and crafting impactful visualizations that drive informed decision-making. Whether you need to streamline data infrastructure, enhance existing reports, or unlock strategic insights from raw data, I bring a proactive and collaborative approach to every project.
 
-I don't just build dashboards. I architect systems that **integrate, predict, and automate**.
+**What You Get With Me:**
+
+| Area | What I Deliver |
+|------|----------------|
+| **Data Integration & ETL** | End-to-end pipelines and ETL/OLAP processes — clean, organized, ready-for-analysis data from raw sources |
+| **BI & Dashboards** | Interactive Power BI, Qlik Sense, and Tableau dashboards that go beyond numbers — visual narratives that explain performance and enable strategic action |
+| **Process Automation** | Automated workflows from loan disbursement to election monitoring — fewer manual errors, faster operations, significant productivity gains |
+| **Strategic Analysis** | Context and recommendations through rigorous analysis — identify key drivers, predict outcomes, guide decisions with data-backed conclusions |
 
 ---
 
@@ -42,48 +45,38 @@ I don't just build dashboards. I architect systems that **integrate, predict, an
 
 | Where | What | Impact |
 |-------|------|--------|
+| **Georgia's Future Academy** | Data Science Program | Advanced training in ML, analytics & data communication |
 | **Bank of Georgia** | Analyst Developer | Automated loan disbursement pipelines, reducing manual processing by ~60% |
-| **Bivision** | BI Analyst | Delivered multi-source OLAP models and executive dashboards |
-| **EPAM Systems** | Lead Analytics Engineer | Designed scalable data pipelines for enterprise clients |
+| **Bivision** | BI Analyst | Multi-source OLAP models and executive dashboards for upper management |
+| **EPAM Systems** | Lead Analytics Engineer | Scalable BI solutions across retail, finance, warehousing, and healthcare |
 
-**Signature Project — "We Vote" (Election Monitoring)**  
-Architected the national election monitoring system handling real-time ETL from **~3,030 polling stations**. Warehoused and visualized turnout data under live broadcast pressure.
-
----
-
-### ⚙️ Technical Philosophy
-
-| Domain | Approach | Tools |
-|--------|----------|-------|
-| **Data Integration** | Kimball dimensional modeling, SCD Type 2, 3NF — OLAP/OLTP rigor | SQL (Advanced), Python (Pandas) |
-| **Predictive Analytics** | From descriptive BI to ML/DL — XGBoost, CatBoost, Scikit-learn, Optuna | Python, Jupyter |
-| **Automation** | Process streamlining via Python scripting & advanced AI prompting | Docker, Git, AWS (basic) |
-| **Visualization** | Semantic DAX measures, parameter-driven dashboards | Power BI, Tableau, Qlik Sense |
+**Signature Project — "We Vote" Election Monitoring**  
+Designed an end-to-end ETL and OLAP system for a nationwide election observation initiative, handling data pipelines for ~3,030 polling stations — from observer applications and training to real-time violation reporting.
 
 ---
 
-### 📊 Featured Projects
+### 📂 Featured Projects
 
-| Project | Core |
-|---------|------|
-| [**House Price Prediction Pipeline**](https://github.com/Choquri2000/House_Price_Prediction_Pipeline) | XGBoost blending • Optuna hyperparameter search • Statistical feature engineering |
-| [**DWH & ETL Framework**](https://github.com/Choquri2000/DWH-Project) | Window functions • Incremental loading • Kimball star schema at scale |
-
-_Both repos contain full documentation + reproducible notebooks._
+| Project | Area | Core |
+|---------|------|------|
+| [**House Price Prediction Pipeline**](https://github.com/Choquri2000/House_Price_Prediction_Pipeline) | ML / Predictive | XGBoost blending · Optuna tuning · Statistical feature engineering · Log-RMSE 0.113 |
+| [**DWH & ETL Framework**](https://github.com/Choquri2000/DWH-Project) | Data Engineering | Kimball star schema · SCD Type 2 · Incremental loading · Window functions |
 
 ---
 
-### 📈 Current Focus
+### 🎓 Why Choose Me
 
-- Sharpening **predictive modeling** (classification, regression, anomaly detection)  
-- Deepening **MLOps fundamentals** (Docker, CI/CD, model serving)  
-- Applying **Bayesian thinking** to A/B testing & uncertainty quantification  
+- **Solid Foundation:** Graduate of ISET — International School of Economics at TSU, complemented by specialized programs in Data Science, Data Communication, and Project Management from Forset
+- **Proven Track Record:** Delivered tangible results at Bank of Georgia, Bivision, National Bank of Georgia, and EPAM
+- **Technical Breadth:** Expert in SQL, Power BI, Qlik Sense; proficient in Python (Pandas, Scikit-learn) and data warehousing concepts
+- **Impact-Oriented:** Every solution I build is designed to enhance efficiency, automate processes, and drive business value
+- **Collaborative Communicator:** Skilled in cross-functional teamwork and translating complex findings to both technical and non-technical stakeholders
 
 ---
 
 ### 📬 Let's Connect
 
-If you're working on a problem where **statistical rigor meets production engineering** — or just want to talk data — reach out.
+If you need clean data, automated workflows, or dashboards that actually drive decisions — reach out.
 
 <p align="right">
   <a href="#georgian">🇬🇪 ქართული ვერსია ↑</a>
@@ -91,7 +84,7 @@ If you're working on a problem where **statistical rigor meets production engine
 
 <hr>
 
-<!-- ############################## GEORGIAN SECTION ############################## -->
+<!-- ############################## GEORGIAN ############################## -->
 <a id="georgian"></a>
 
 <h1 align="center">
@@ -100,7 +93,7 @@ If you're working on a problem where **statistical rigor meets production engine
 </h1>
 
 <p align="center">
-  <em>მონაცემთა ანალიტიკოსი · დეველოპერი · გადაწყვეტილებების არქიტექტორი</em><br>
+  <em>მონაცემთა ანალიტიკოსი · BI დეველოპერი · გადაწყვეტილებების არქიტექტორი</em><br>
   <a href="https://www.linkedin.com/in/beka-chokuri/">LinkedIn</a> •
   <a href="mailto:beqachoquri@gmail.com">Email</a>
 </p>
@@ -109,10 +102,16 @@ If you're working on a problem where **statistical rigor meets production engine
 
 ### 🧭 ვინ ვარ მე
 
-მონაცემთა პროფესიონალი **3+ წლიანი** გამოცდილებით ეკონომიკის, ანალიტიკისა და მონაცემთა ინჟინერიის კვეთაზე.  
-**ISET-ის** ბაკალავრის ხარისხი ალბათობის თეორიაში, წრფივ ალგებრასა და ბაიესის სტატისტიკაში — ეს არის საფუძველი, რომელზეც ყველა მოდელირების გადაწყვეტილება დგას.
+**3+ წლიანი** გამოცდილებით ფინანსებისა და ანალიტიკის კვეთაზე, ვარ თავდადებული **მონაცემთა ანალიტიკოსი და BI დეველოპერი**, რომლის მიზანია რთული მონაცემების ნათელ, ქმედით ინსაითებად გარდაქმნა. ვაშენებ მყარ მონაცემთა გადაწყვეტილებებს, ვაუტომატიზირებ პროცესებს და ვქმნი გავლენიან ვიზუალიზაციებს, რომლებიც ინფორმირებული გადაწყვეტილებების მიღებას უწყობს ხელს.
 
-არ ვქმნი მხოლოდ დეშბორდებს. ვაწყობ სისტემებს, რომლებიც **აინტეგრირებენ, პროგნოზირებენ და ავტომატიზირებენ**.
+**რას მიიღებთ ჩემგან:**
+
+| მიმართულება | შედეგი |
+|-------------|--------|
+| **მონაცემთა ინტეგრაცია & ETL** | სრული პაიპლაინები — ნედლი მონაცემებიდან სუფთა, ანალიზისთვის მზა ინფორმაციამდე |
+| **BI & დეშბორდები** | ინტერაქტიური Power BI, Qlik Sense, Tableau — ვიზუალური ნარატივები, რომლებიც ხსნიან შედეგებს და განაპირობებენ სტრატეგიულ მოქმედებას |
+| **პროცესების ავტომატიზაცია** | ავტომატიზებული ვორქფლოუები — სესხების გაცემიდან საარჩევნო მონიტორინგამდე |
+| **სტრატეგიული ანალიზი** | კონტექსტი და რეკომენდაციები — ძირითადი ფაქტორების იდენტიფიცირება, შედეგების პროგნოზირება, მონაცემებით გამყარებული გადაწყვეტილებები |
 
 ---
 
@@ -120,48 +119,38 @@ If you're working on a problem where **statistical rigor meets production engine
 
 | სად | როლი | შედეგი |
 |-----|------|--------|
+| **Georgia's Future Academy** | Data Science პროგრამა | ML, ანალიტიკისა და მონაცემთა კომუნიკაციის მოწინავე ტრენინგი |
 | **საქართველოს ბანკი** | ანალიტიკოსი დეველოპერი | სესხების ავტომატიზებული გაცემა, მექანიკური დამუშავების ~60%-ით შემცირება |
 | **Bivision** | BI ანალიტიკოსი | მულტი-წყარო OLAP მოდელები და აღმასრულებელი დეშბორდები |
-| **EPAM Systems** | წამყვანი ანალიტიკური ინჟინერი | მასშტაბირებადი მონაცემთა პაიპლაინები კორპორატიული კლიენტებისთვის |
+| **EPAM Systems** | წამყვანი ანალიტიკური ინჟინერი | მასშტაბირებადი BI გადაწყვეტილებები რეტეილში, ფინანსებში, ვერჰაუსინგსა და ჰელთქეირში |
 
 **საკვანძო პროექტი — "ჩვენ ვირჩევთ" (საარჩევნო მონიტორინგი)**  
-ეროვნული საარჩევნო მონიტორინგის სისტემის არქიტექტურა, რომელიც **~3,030 საარჩევნო უბნიდან** მონაცემებს რეალურ დროში ამუშავებდა. ETL პაიპლაინები ლაივ ეთერში.
+სრული ETL და OLAP სისტემა ~3,030 საარჩევნო უბნის რეალურ დროში მონიტორინგისთვის — დამკვირვებლების რეგისტრაციიდან დარღვევების რეპორტინგამდე.
 
 ---
 
-### ⚙️ ტექნიკური ფილოსოფია
+### 📂 რჩეული პროექტები
 
-| მიმართულება | მიდგომა | ინსტრუმენტები |
-|-------------|----------|----------------|
-| **მონაცემთა ინტეგრაცია** | Kimball-ის განზომილებიანი მოდელირება, SCD Type 2, 3NF — OLAP/OLTP | SQL (Advanced), Python (Pandas) |
-| **პროგნოზული ანალიტიკა** | BI-დან ML/Deep Learning-ზე გადასვლა — XGBoost, CatBoost, Scikit-learn, Optuna | Python, Jupyter |
-| **ავტომატიზაცია** | პროცესების ოპტიმიზაცია Python-ითა და AI Prompting-ით | Docker, Git, AWS (საბაზისო) |
-| **ვიზუალიზაცია** | სემანტიკური DAX, პარამეტრიზებული დეშბორდები | Power BI, Tableau, Qlik Sense |
+| პროექტი | მიმართულება | ძირითადი |
+|---------|-------------|-----------|
+| [**House Price Prediction Pipeline**](https://github.com/Choquri2000/House_Price_Prediction_Pipeline) | ML / პროგნოზირება | XGBoost · Optuna · სტატისტიკური ფიჩერ ენჟინერინგი · Log-RMSE 0.113 |
+| [**DWH & ETL Framework**](https://github.com/Choquri2000/DWH-Project) | მონაცემთა ინჟინერია | Kimball · SCD Type 2 · ინკრემენტალური ჩატვირთვა · Window ფუნქციები |
 
 ---
 
-### 📊 რჩეული პროექტები
+### 🎓 რატომ მე
 
-| პროექტი | ძირითადი |
-|----------|-----------|
-| [**House Price Prediction Pipeline**](https://github.com/Choquri2000/House_Price_Prediction_Pipeline) | XGBoost blending • Optuna ჰიპერპარამეტრების ოპტიმიზაცია • სტატისტიკური ფიჩერ ენჟინერინგი |
-| [**DWH & ETL Framework**](https://github.com/Choquri2000/DWH-Project) | Window ფუნქციები • ინკრემენტალური ჩატვირთვა • Kimball-ის ვარსკვლავური სქემა მასშტაბზე |
-
-_ორივე რეპოზიტორია შეიცავს სრულ დოკუმენტაციას + რეპროდუცირებად ნოუთბუქებს._
-
----
-
-### 📈 მიმდინარე ფოკუსი
-
-- **პროგნოზული მოდელების** დახვეწა (კლასიფიკაცია, რეგრესია, ანომალიების დეტექცია)
-- **MLOps-ის საფუძვლების** გაღრმავება (Docker, CI/CD, მოდელის სერვინგი)
-- **ბაიესური აზროვნების** გამოყენება A/B ტესტირებასა და გაურკვევლობის რაოდენობრივ შეფასებაში
+- **მყარი საფუძველი:** ISET-ის (თსუ-ს საერთაშორისო ეკონომიკის სკოლა) კურსდამთავრებული, Forset-ის Data Science, Data Communication და Project Management პროგრამების მონაწილე
+- **დადასტურებული გამოცდილება:** ხელშესახები შედეგები საქართველოს ბანკში, Bivision-ში, EPAM-სა და ეროვნულ ბანკში
+- **ტექნიკური სიგანე:** SQL, Power BI, Qlik Sense, Python (Pandas, Scikit-learn), მონაცემთა საწყობების არქიტექტურა
+- **შედეგზე ორიენტირებული:** ყველა გადაწყვეტილება მიზნად ისახავს ეფექტიანობის ამაღლებას, ავტომატიზაციას და ბიზნეს ღირებულების შექმნას
+- **კომუნიკაბელური:** გამოცდილება კროს-ფუნქციურ გუნდებში მუშაობისა და რთული დასკვნების გასაგებ ენაზე გადმოცემის
 
 ---
 
 ### 📬 კონტაქტი
 
-თუ მუშაობთ პრობლემაზე, სადაც **სტატისტიკური სიმკაცრე ხვდება საწარმოო ინჟინერიას** — ან უბრალოდ გსურთ მონაცემებზე საუბარი — მომწერეთ.
+თუ გჭირდებათ სუფთა მონაცემები, ავტომატიზებული ვორქფლოუები ან დეშბორდები, რომლებიც რეალურად იღებენ გადაწყვეტილებებს — მომწერეთ.
 
 <p align="right">
   <a href="#english">🇺🇸 English Version ↑</a>
