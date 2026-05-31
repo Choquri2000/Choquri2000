@@ -38,13 +38,10 @@ I don't pretend to know everything. I learn by building — each repo here is a 
 
 | Where | What |
 |-------|------|
-| **Georgia's Future Academy** | Data Science & ML specialization |
+| **Georgia's Future Academy** *(current)* | Engineered ETL pipeline for observer recruitment across 30+ organizations · Led data team for the largest nationwide election monitoring mission in Georgia · Co-authored economic research aggregating trade, migration & financial datasets · Market analysis translating statistics into policy narratives |
 | **Bank of Georgia** | Analyst Developer — automated loan disbursement (~60% faster) |
 | **Bivision** | BI Analyst — OLAP models, executive dashboards |
 | **EPAM Systems** | Lead Analytics Engineer — enterprise BI for retail, finance, healthcare |
-
-**Signature Project — "We Vote" Election Monitoring**  
-ETL/OLAP system covering ~3,030 polling stations nationwide — from observer registration to real-time violation reporting.
 
 ---
 
@@ -101,13 +98,10 @@ SQL (advanced) · Python (Pandas, Scikit-learn) · Power BI · Tableau · Qlik S
 
 | სად | როლი |
 |-----|------|
-| **Georgia's Future Academy** | Data Science & ML სპეციალიზაცია |
+| **Georgia's Future Academy** *(მიმდინარე)* | ETL პაიპლაინი 30+ ორგანიზაციის დამკვირვებლების რეკრუტირებისთვის · ყველაზე მასშტაბური საარჩევნო მისიის მონაცემთა გუნდის ხელმძღვანელი · თანაავტორი ეკონომიკური კვლევებისა ვაჭრობის, მიგრაციისა და ფინანსების მონაცემებზე · მარკეტ ანალიზი სტატისტიკიდან პოლისი ნარატივებამდე |
 | **საქართველოს ბანკი** | ანალიტიკოსი დეველოპერი — სესხების გაცემის ავტომატიზაცია (~60%-ით დაჩქარება) |
 | **Bivision** | BI ანალიტიკოსი — OLAP მოდელები, აღმასრულებელი დეშბორდები |
 | **EPAM Systems** | წამყვანი ანალიტიკური ინჟინერი — BI გადაწყვეტილებები რეტეილში, ფინანსებში, ჯანდაცვაში |
-
-**მთავარი პროექტი — "ჩვენ ვირჩევთ"**  
-ETL/OLAP სისტემა ~3,030 უბნის რეალურ დროში მონიტორინგისთვის — დამკვირვებლების რეგისტრაციიდან დარღვევების რეპორტინგამდე.
 
 ---
 
